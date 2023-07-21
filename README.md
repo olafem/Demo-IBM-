@@ -1,3 +1,3 @@
 # Demo-IBM-Data
 
-This is a Git Practice for IBM Data Science course
+This is a list of projects for the IBM Data Science professional Certificate program
